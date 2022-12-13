@@ -51,7 +51,7 @@ node js LTS and npm package manager
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yBoualam3/mail-list-sender.git
+   git clone https://github.com/Boualam3/mail-list-sender.git
    ```
 2. Install NPM packages
    ```sh

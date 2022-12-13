@@ -69,7 +69,7 @@ node js LTS and npm package manager
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-On resoures foulder should have file emails.txt contening email list line by line 
+On resoures folder should have file emails.txt contening email list line by line 
 run `npm start ` for start sending
 
 
@@ -78,7 +78,7 @@ run `npm start ` for start sending
 
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Boualam3/mail-list-sender/issues) for a full list of proposed features (and known issues).
 
 
 
